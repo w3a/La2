@@ -1,1 +1,5 @@
 wwwwwwww
+int a, b , c;
+cin<<a<<b;
+ c = (a*21)-b/2;
+ cout>> c
